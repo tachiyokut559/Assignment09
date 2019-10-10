@@ -1,0 +1,22 @@
+html{
+    background: 8px gold;
+    border: 5px solid black;
+    
+}
+body{
+    background: 5px navy;
+    font-size: 110%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 115%;
+    text-decoration: blueviolet;
+}
+
+p{
+    border: 5px double black;
+    background: 5px ;
+
+}
